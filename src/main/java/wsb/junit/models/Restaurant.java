@@ -5,7 +5,8 @@ import lombok.Getter;
 import lombok.Setter;
 
 @Getter
-@Setter@AllArgsConstructor
+@Setter
+@AllArgsConstructor
 public class Restaurant {
 
     private Long id;
